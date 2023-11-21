@@ -1,0 +1,4 @@
+statedir = %%statedir%%/swtpm-localca
+signingkey = %%etcdir%%/signkey.pem
+issuercert = %%etcdir%%/issuercert.pem
+certserial = %%etcdir%%/certserial
